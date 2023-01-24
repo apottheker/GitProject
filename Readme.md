@@ -1,0 +1,1 @@
+Hi, Fellas, this project teaches you how to use Git, hope u'll enjoy it!
